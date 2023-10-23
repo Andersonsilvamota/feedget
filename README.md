@@ -8,19 +8,32 @@
 
 ## Preview
 
-<img src=".github/coffeDelivery.PNG">
+<img src=".github/feedget.PNG">
 
 
 ## Para rodar o projeto na maquina local :
 
 1 - Clone o projeto:
   git clone https://github.com/Andersonsilvamota/feedget.git
-  
-2 - Entre na pasta:
+
+## Rodar o backend:
+
+1 - Entre na pasta:
+  cd server
+
+2 - Instale as depedências:
+  npm i
+
+3- Rode o projeto:
+  npm run dev
+
+## Rodar o frontend:
+
+1 - Entre na pasta:
   cd feedget
 
-3 - Instale as depedências:
+2 - Instale as depedências:
   npm i
   
-4- Rode o projeto:
+3- Rode o projeto:
   npm run dev
