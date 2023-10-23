@@ -8,7 +8,7 @@
 
 ## Preview
 
-<img src=".github/feedget.png">
+<img src="../.github/feedget.png">
 
 
 ## Para rodar o projeto na maquina local :
